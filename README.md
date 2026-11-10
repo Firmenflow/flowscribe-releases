@@ -30,3 +30,7 @@ FlowScribe ist noch nicht code-signiert. Beim ersten Start kann Windows „Der C
 ## Updates
 
 Die installierte FlowScribe fragt höchstens einmal am Tag hier nach einer neuen Version und bietet sie mit „Jetzt installieren“, „Später“ oder „Überspringen“ an. Jedes Update ist signiert, FlowScribe installiert nur Pakete mit gültiger Signatur. Abschaltbar in den Einstellungen unter Allgemein → Updates.
+
+## Anbieter und Datenschutz
+
+FlowScribe kommt von Manuel Landeck, Firmenflow, Wesel. [Impressum](https://www.firmenflow.de/impressum) · [Datenschutzerklärung](https://www.firmenflow.de/datenschutz)
